@@ -1,2 +1,3 @@
 # Students_Dropout_Rate_Analysis
- A website created to do basic analysis and filtering data based on the indian students dropout rate , // built on php,html,css,js.sql
+ This website is a tool for analyzing and filtering data on the dropout rate of Indian students. It is built using PHP, HTML, CSS, JavaScript, and SQL. It has a number of features, including the ability to filter data, create pie charts, line charts, and bar charts, insert records, and accept data from volunteers and students who have dropped out. The website is designed to provide a comprehensive overview of the dropout rate among Indian students, and to help identify patterns and trends that may be contributing to this issue. By using this website, users can gain a better understanding of the factors that are affecting dropout rates, and can work to develop strategies and interventions to address the problem.
+ 

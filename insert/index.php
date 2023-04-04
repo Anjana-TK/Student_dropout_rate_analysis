@@ -63,8 +63,8 @@ label {
 </style>
 <div>
 <form action="insert.php" method="POST">
-         <p><strong>Sign Up form</strong></p>
-         <label for="Name">UserId:</label>
+         <p><strong>Insert data</strong></p>
+         <label for="Name">SUserId:</label>
          <center><input type="number" id="UID" class="name" name="UID"></center>
          <br>
          <label for="Name">Name:</label>
